@@ -1,2 +1,2 @@
 # BistableMechanism
-# This is to archive my code used in my publications.
+# This is to archive the codes used in my publications.
